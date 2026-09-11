@@ -1,4 +1,4 @@
-[ForgeOn Logo](/Images/ForgeOn%20Logo.png)
+![ForgeOn Logo](/Images/ForgeOn%20Logo.png)
 Voron 2.4 5 head StealthChanger
 
 This build started out as a platform by which to install an INDX. It then took a hard left and became a 5 head stealth changer. In trying to decide how to set up the spools to feed the printer I ended up with a [Storon](https://github.com/astechevolves/storon) to store and feed the printer. 
