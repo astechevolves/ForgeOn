@@ -19,7 +19,7 @@ This build started out as a platform by which to install an INDX. It then took a
 - Waveshare 7.9 touchscreen display running HelixScreen
 - Klipper on a Pi5
 - LDO Leviathan V1.3 controller w/ expansion board
-- Knomi Screens not on the toolhead to show toolhead specific data
+- Knomi Screens not on the toolhead to [show toolhead specific data](https://github.com/astechevolves/knomi-toolchanger)
 - NiteHawk Hexa 6+1 tool hub board
 - 5X Nitehawk 36 USB Toolhead boards
 - Axiscope and Sexball alignment
