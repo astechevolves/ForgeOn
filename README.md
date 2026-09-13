@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="/Images/ForgeOn%20Logo.png" alt="ForgeOn Logo" width="450">
+  <img src="/Images/Full Logo Transparent Background.png" alt="ForgeOn Logo" width="450">
 </p>
 
 Voron 2.4 5 head StealthChanger
