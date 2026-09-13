@@ -1,9 +1,14 @@
-![ForgeOn Logo](/Images/ForgeOn%20Logo.png)
+<img src="/Images/ForgeOn%20Logo.png" alt="ForgeOn Logo" width="350">
 Voron 2.4 5 head StealthChanger
 
 This build started out as a platform by which to install an INDX. It then took a hard left and became a 5 head stealth changer. In trying to decide how to set up the spools to feed the printer I ended up with a [Storon](https://github.com/astechevolves/storon) to store and feed the printer. 
 
 # ForgeOn — Voron 2.4 StealthChanger
+
+<p align="center">
+  <img src="/Images/Printer%20idle%20and%20standing%20by.jpg" alt="ForgeOn Voron 2.4 StealthChanger" width="600">
+</p>
+
 
 ## Platform and Motion
 
@@ -31,6 +36,9 @@ This build started out as a platform by which to install an INDX. It then took a
 - Custom Umbilical support and Nitehawk Mount bracket
 
 ## Macro Based Fun Stuff
+- KIAUH
+- ShakeTune
+- TMC Auto Tune
 - Color coded tool lanes from Storon up to ForgeOn for easy reference
 - Pre-Print brush wipe of all toolhead used in coming print, last head to wipe is first to be used in print
 - Toolhead LED's assigned color from Orca output to match currently ongoing print
