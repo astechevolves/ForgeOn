@@ -20,7 +20,7 @@ This build started out as a platform by which to install an INDX. It then took a
 - Five-tool StealthChanger system
 - Custom made switch home static in the back corner, for more consistent tool docking
 - LDO CNC AWD Kit
-- 500 mm/s @ 12K accel
+- 500 mm/s @ 20K accel
 
 ## Electronics
 
