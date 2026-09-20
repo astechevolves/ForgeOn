@@ -42,6 +42,7 @@ This build started out as a platform by which to install an INDX. It then took a
 - KIAUH
 - ShakeTune
 - TMC Auto Tune
+- Custom Poop Purge based on Demon Klipper's version
 - Color coded tool lanes from Storon up to ForgeOn for easy reference
 - Pre-Print brush wipe of all toolhead used in coming print, last head to wipe is first to be used in print
 - Toolhead LED's assigned color from Orca output to match currently ongoing print
